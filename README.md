@@ -7,7 +7,7 @@ Exercise files from **freeCodeCamp** courses
 - [ ] HTML Cat Photo App
 - [x] Basic CSS Cafe Menu
 - [x] CSS Colors Markers
-- [ ] HTML Forms Registration Form
+- [x] HTML Forms Registration Form
 - [ ] **Survey Form Project**
 - [ ] CSS Box Model Rothko Painting
 - [ ] CSS Flexbox Photo Gallery
