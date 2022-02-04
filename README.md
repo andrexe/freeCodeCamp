@@ -4,13 +4,13 @@ Exercise files from **freeCodeCamp** courses
 ## JavaScript Algorithms & Data Structures
 - [x] Intermediate Algorithm Scripting
 ## Responsive Web Design 2022
-- [ ] HTML Cat Photo App
+- [x] HTML Cat Photo App
 - [x] Basic CSS Cafe Menu
 - [x] CSS Colors Markers
 - [x] HTML Forms Registration Form
 - [ ] **Survey Form Project**
-- [ ] CSS Box Model Rothko Painting
-- [ ] CSS Flexbox Photo Gallery
+- [x] CSS Box Model Rothko Painting
+- [x] CSS Flexbox Photo Gallery
 - [ ] Typography Nutrition Label
 - [ ] Accessibility Quiz
 - [ ] **Tribute Page Project**
