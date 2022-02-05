@@ -11,7 +11,7 @@ Exercise files from **freeCodeCamp** courses
 - [ ] **Survey Form Project**
 - [x] CSS Box Model Rothko Painting
 - [x] CSS Flexbox Photo Gallery
-- [ ] Typography Nutrition Label
+- [x] Typography Nutrition Label
 - [ ] Accessibility Quiz
 - [ ] **Tribute Page Project**
 - [ ] Pseudo Selector Balance Sheet
