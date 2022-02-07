@@ -12,7 +12,7 @@ Exercise files from **freeCodeCamp** courses
 - [x] CSS Box Model Rothko Painting
 - [x] CSS Flexbox Photo Gallery
 - [x] Typography Nutrition Label
-- [ ] Accessibility Quiz
+- [x] Accessibility Quiz
 - [ ] **Tribute Page Project**
 - [ ] Pseudo Selector Balance Sheet
 - [ ] Intermediate CSS Picasso Painting
