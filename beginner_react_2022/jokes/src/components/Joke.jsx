@@ -18,9 +18,6 @@ const Joke = (props) => {
                         <p>{comment.body}</p>
                     </section>
                 })}
-                {/* author
-                title
-                body */}
             </section>
         </section>
     )
