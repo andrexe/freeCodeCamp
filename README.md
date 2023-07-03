@@ -26,7 +26,7 @@ Exercise files from **freeCodeCamp** courses
 - [ ] **Personal Portfolio Webpage Project**
 ## JAMstack Course
 - [x] All simply static
-- [ ] Changing the DOM with JavaScript
+- [x] Changing the DOM with JavaScript
 - [ ] Introducing a static site generator
 - [ ] Generating pages from a content API
 - [ ] Generating localized pages, with geo-IP routing at the CDN
