@@ -11,6 +11,8 @@
   "author": "Andrei A",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
   }
 }

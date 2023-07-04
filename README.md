@@ -28,6 +28,6 @@ Exercise files from **freeCodeCamp** courses
 - [x] All simply static
 - [x] Changing the DOM with JavaScript
 - [x] Introducing a static site generator
-- [ ] Generating pages from a content API
+- [x] Generating pages from a content API
 - [ ] Generating localized pages, with geo-IP routing at the CDN
 - [ ] Client-side rendering targeted API content
