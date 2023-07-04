@@ -27,7 +27,7 @@ Exercise files from **freeCodeCamp** courses
 ## JAMstack Course
 - [x] All simply static
 - [x] Changing the DOM with JavaScript
-- [ ] Introducing a static site generator
+- [x] Introducing a static site generator
 - [ ] Generating pages from a content API
 - [ ] Generating localized pages, with geo-IP routing at the CDN
 - [ ] Client-side rendering targeted API content
