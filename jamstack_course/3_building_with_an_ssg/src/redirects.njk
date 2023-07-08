@@ -1,0 +1,11 @@
+---
+permalink: /_redirects
+eleventyExcludeFromCollections: true
+---
+
+/  /au/index.html  200  Language=fr
+
+{%- for item in countries %}
+/  /{{ item }}/index.html  200  Country={{ item }}
+{%- endfor %}
+/  /gb/index.html  404
