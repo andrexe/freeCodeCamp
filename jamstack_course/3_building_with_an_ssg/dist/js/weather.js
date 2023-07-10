@@ -1,9 +1,6 @@
 function success(pos) {
 
-    // const API_KEY = process.env.OPEN_WEATHER_API_KEY;
-    const API_KEY = 'aec96f6ebb1dd2ee4015600a64da66fe';
-
-    const url = `https://api.openweathermap.org/data/2.5/weather?lat=${pos.coords.latitude}&lon=${pos.coords.longitude}&appid=${API_KEY}&units=metric`;
+    const url = `/.netlify/functions//weatherapi?lat=${pos.coords.latitude}&lon=${pos.coords.longitude}&units=metric`;
 
     fetch(url)
         .then((response) => {
