@@ -18,6 +18,9 @@
       .love {
         font-size: 4rem;
       }
+      .hidden {
+        display: none;
+      }
     </style>
   </head>
   <body>
@@ -31,45 +34,56 @@
         <p>You have unlimited potential within you!</p>
     </div>
     <div class="love">❤️</div>
+
+    <div id="weather" class="hidden">
+        <h2>Weather near you</h2>
+        <p id="city"></p>
+        <p id="temp"></p>
+        <p id="main"></p>
+        <p id="desc"></p>
+    </div>
+
+    <h2>News in your country</h2>
     <ul>
         
             <li>
                 <h2>
-                    <a href="https://www.theverge.com/2023/7/6/23786156/google-pixel-custom-chip-manufacturing-tensor-2025">Google delays its first truly custom Pixel chip until 2025 - The Verge</a>
+                    <a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmdwZmFucy5jb20vZW4vZjEtbmV3cy8xMTExNzUvZmVycmFyaS11cGdyYWRlLXJlZC1idWxsLXNpbHZlcnN0b25lLWJyaXRpc2gtZ3JhbmQtcHJpeC1mMS_SAQA?oc=5">Why Ferrari could challenge Red Bull pace in HIGH SPEED Silverstone race - GPFans EN</a>
                 </h2>
-                <span>The Verge - <time>2023-07-06T20:15:39Z</time></span>
+                <span>Google News - <time>2023-07-09T10:57:00Z</time></span>
             </li>
         
             <li>
                 <h2>
-                    <a href="https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hcnRpY2xlcy9wZXRlci1tb2x5bmV1eC1zYXlzLW5leHQtZ2FtZS1pbmNsdWRlcy1zb21ldGhpbmctbm8tZ2FtZS1iZWZvcmUtaXQtaGFzLWV2ZXItaGFkLzExMDAtNjUxNTczMy_SAYMBaHR0cHM6Ly93d3cuZ2FtZXNwb3QuY29tL2FtcC1hcnRpY2xlcy9wZXRlci1tb2x5bmV1eC1zYXlzLW5leHQtZ2FtZS1pbmNsdWRlcy1zb21ldGhpbmctbm8tZ2FtZS1iZWZvcmUtaXQtaGFzLWV2ZXItaGFkLzExMDAtNjUxNTczMy8?oc=5">Peter Molyneux Says Next Game Includes Something No Game Before It Has Ever Had - GameSpot</a>
+                    <a href="https://www.videogameschronicle.com/news/square-enix-says-its-considering-remastering-more-old-titles-following-ff-pixel-remaster-success/">Square Enix says it&#39;s &#39;considering&#39; remastering more old titles following FF Pixel Remaster success | VGC - Video Games Chronicle</a>
                 </h2>
-                <span>Google News - <time>2023-07-06T20:14:21Z</time></span>
+                <span>Video Games Chronicle - <time>2023-07-09T09:34:17Z</time></span>
             </li>
         
             <li>
                 <h2>
-                    <a href="https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmF1dG9zcG9ydC5jb20vZjEvbmV3cy9uZXctbWVyY2VkZXMtZnJvbnQtd2luZy1yZXZlYWxlZC1hdC1icml0aXNoLWdwLS8xMDQ5MjM4Ny_SAQA?oc=5">New Mercedes front wing revealed at British GP - Autosport</a>
+                    <a href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbWV0cm8uY28udWsvMjAyMy8wNy8wOC9maW5hbC1mYW50YXN5LTE2LWlzLWF3ZnVsLWFuZC1pbS1nbGFkLWl0cy1ub3QtZG9pbmctd2VsbC0xOTA5MDY3NC_SAQA?oc=5">Final Fantasy 16 is awful and I&#39;m glad it&#39;s not doing well - Metro.co.uk</a>
                 </h2>
-                <span>Google News - <time>2023-07-06T18:09:56Z</time></span>
+                <span>Google News - <time>2023-07-09T06:46:00Z</time></span>
             </li>
         
             <li>
                 <h2>
-                    <a href="https://www.pushsquare.com/news/2023/07/mortal-kombat-1-ps5-trailer-is-a-total-knockout-smoke-and-rain-confirmed">Mortal Kombat 1 PS5 Trailer Is a Total Knockout, Smoke and Rain Confirmed - Push Square</a>
+                    <a href="https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmRpZ2l0YWxjYW1lcmF3b3JsZC5jb20vYnV5aW5nLWd1aWRlcy9uaWtvbi16OC12cy1jYW5vbi1lb3MtcjXSAQA?oc=5">Nikon Z8 vs Canon EOS R5 - Digital Camera World</a>
                 </h2>
-                <span>Push Square - <time>2023-07-06T18:00:00Z</time></span>
+                <span>Google News - <time>2023-07-09T06:38:37Z</time></span>
             </li>
         
             <li>
                 <h2>
-                    <a href="https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LndyZXN0bGluZ2luYy5jb20vMTMyODkwMC9hZXctc3ZwLW5pay1zb2JpYy1jcmVkaXRzLXN0YXItYXR0ZW50aW9uLWRldGFpbC1hZXctZmlnaHQtZm9yZXZlci_SAQA?oc=5">AEW SVP Nik Sobic Credits This Star For Attention To Detail In AEW: Fight Forever - Wrestling Inc.</a>
+                    <a href="https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJwZ3NpdGUubmV0L2ZlYXR1cmUvMTQ0MjUtZmluYWwtZmFudGFzeS14dmktaHVudC1sb2NhdGlvbnMtYWxsLWZmMTYtbm90b3Jpb3VzLW1hcmstaHVudC10YXJnZXRzLXJld2FyZHPSAQA?oc=5">Final Fantasy XVI Hunt Locations: All FF16 Notorious Mark Hunt Targets &amp; Rewards - RPG Site</a>
                 </h2>
-                <span>Google News - <time>2023-07-06T17:30:00Z</time></span>
+                <span>Google News - <time>2023-07-09T06:01:14Z</time></span>
             </li>
         
     </ul>
 </div>
 <script src="/js/vibe.js"></script>
+<script src="/js/weather.js"></script>
   </body>
 </html>
